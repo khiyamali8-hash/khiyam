@@ -1,0 +1,6 @@
+{
+  "name": "ICT Chart Image Analyzer",
+  "description": "Expert trading chart analysis using Inner Circle Trader (ICT) smart money concepts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
